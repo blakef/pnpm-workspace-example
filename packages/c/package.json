@@ -1,0 +1,13 @@
+{
+  "name": "c",
+  "packageManager": "yarn@4.5.1",
+  "scripts": {
+    "rn": "./node_modules/.bin/react-native config"
+  },
+  "devDependencies": {
+    "@react-native-community/cli": "15.0.1"
+  },
+  "dependencies": {
+    "react-native": "0.76.1"
+  }
+}

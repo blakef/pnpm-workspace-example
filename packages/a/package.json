@@ -1,0 +1,15 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "rn": "./node_modules/.bin/react-native config"
+  },
+  "dependencies": {
+    "@react-native-community/cli": "15.0.1",
+    "react-native": "^0.76.1"
+  }
+}
